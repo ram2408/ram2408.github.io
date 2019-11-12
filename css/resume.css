@@ -188,3 +188,21 @@ a:hover, a:focus, a:active {
     background-image: url(../img/tmp.webp);
     background-size: cover;
 }
+#interests{
+    background-color: rgb(52, 235, 189);
+    /*background-image: url(../img/interest.jpg);
+    background-size: cover;*/
+}
+#experience{
+  background-color:rgb(235, 76, 52);
+}
+#education{
+  background-color:rgb(235, 125, 52);
+}
+#skills{
+  background-color: rgb(122, 235, 52);
+}
+p{
+  color:black;
+  font-weight:bold;
+}
