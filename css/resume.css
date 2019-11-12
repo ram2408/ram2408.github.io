@@ -10,10 +10,11 @@ body {
   color: #868e96;
 }
 
+
 @media (min-width: 992px) {
   body {
     padding-top: 0;
-    padding-left: 17rem;
+    padding-left: 15rem;
   }
 }
 
@@ -92,7 +93,9 @@ p.lead {
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
 }
-
+h1.mb-0{
+    font-size: 5em;
+}
 @media (min-width: 992px) {
   #sideNav {
     text-align: center;
@@ -131,8 +134,11 @@ p.lead {
   #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
     display: block;
   }
+  #about{
+    background-image: url(../img/cover.jpg);
+    background-size: cover;
+  }
 }
-
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
@@ -173,4 +179,12 @@ a {
 
 a:hover, a:focus, a:active {
   color: #824027;
+}
+#about{
+    background-image: url(../img/cover.jpg);
+    background-size: cover;
+}
+#awards{
+    background-image: url(../img/tmp.webp);
+    background-size: cover;
 }
