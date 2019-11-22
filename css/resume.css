@@ -46,6 +46,7 @@ h3 {
 p.lead {
   font-size: 1.15rem;
   font-weight: 400;
+  color:white;
 }
 
 .subheading {
@@ -189,20 +190,24 @@ a:hover, a:focus, a:active {
     background-size: cover;
 }
 #interests{
-    background-color: rgb(52, 235, 189);
+    background-color: #fcc169;
     /*background-image: url(../img/interest.jpg);
     background-size: cover;*/
 }
 #experience{
-  background-color:rgb(235, 76, 52);
+  background-color:#fa697c;
 }
 #education{
-  background-color:rgb(235, 125, 52);
+  background-color:#e13a9d;
 }
 #skills{
-  background-color: rgb(122, 235, 52);
+  background-color: #9b45e4;
 }
 p{
   color:black;
   font-weight:bold;
+}
+li{
+  color:black;
+  font-weight :bold;
 }
