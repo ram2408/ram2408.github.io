@@ -55,7 +55,7 @@ h1,
 h2,
 h3 {
   color: var(--ink);
-  font-weight: 760;
+  font-weight: 800;
   letter-spacing: 0;
   line-height: 1.08;
 }
@@ -93,7 +93,7 @@ p {
 .site-nav .navbar-brand {
   color: var(--ink);
   font-size: 1rem;
-  font-weight: 760;
+  font-weight: 800;
 }
 
 .site-nav .navbar-nav {
@@ -104,7 +104,7 @@ p {
 .site-nav .nav-link {
   color: var(--muted);
   font-size: 0.92rem;
-  font-weight: 680;
+  font-weight: 700;
   padding: 0.45rem 0.75rem;
 }
 
@@ -173,7 +173,7 @@ p {
   border: 1px solid transparent;
   border-radius: 999px;
   padding: 0.72rem 1.05rem;
-  font-weight: 760;
+  font-weight: 800;
 }
 
 .button:hover,
@@ -221,7 +221,7 @@ p {
 .profile-title {
   margin-bottom: 0.15rem;
   color: var(--ink);
-  font-weight: 760;
+  font-weight: 800;
 }
 
 .profile-meta,
@@ -271,7 +271,7 @@ p {
 .timeline-date {
   color: var(--accent-strong);
   font-size: 0.9rem;
-  font-weight: 760;
+  font-weight: 800;
 }
 
 .timeline-content p:last-child,
@@ -326,7 +326,7 @@ p {
   background: rgba(255, 255, 255, 0.72);
   color: var(--ink);
   padding: 0.65rem 0.9rem;
-  font-weight: 720;
+  font-weight: 700;
 }
 
 .contact-section {
